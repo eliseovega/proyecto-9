@@ -1,0 +1,36 @@
+
+        body {
+            background-color: #fff;
+            font-family: Arial, sans-serif;
+        }
+        .card {
+            border: none;
+            box-shadow: 0 0 15px rgba(0, 0, 0, .5);
+        }
+        .form-label {
+            font-weight: bold;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+        .result-card {
+            background-color: #ffffff;
+            padding: 15px;
+            border-radius: 8px;
+            
+        }
+        .badge {
+            font-size: 1rem;
+        }
+        .result-header {
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+        .result-item {
+            margin-bottom: 10px;
+        }
+  
